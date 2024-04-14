@@ -1,6 +1,9 @@
+# ************** Defining and setting type
 # first_name = "Robert"
 # last_name = "Paulson"
 # print(first_name, last_name)
+
+# ********************************* Numeric types ********************************************
 
 # radius = 6
 # pi = 3.1415926535897931
@@ -21,7 +24,7 @@
 # print("imaginary_part of x:", imaginary_part_x)
 # print("imaginary_part of y:", imaginary_part_y)
 
-
+# *************************** String types **************************************************
 
 # print(ord("G"))
 # print(ord("l"))
@@ -59,6 +62,8 @@
 #
 # input("\n\nPress the enter key to exit.")
 
+# **************************** Boolean Types *************************************************
+
 # Baby.py
 #
 # author: A. N. Other
@@ -88,6 +93,8 @@
 # print ("Test 7 ", bool())
 # print ("Test 8 ", bool(3))
 # print ("Test 9 ", bool(None))
+
+# ******************************************* Casting *********************************************
 
 # Casting.py
 #
