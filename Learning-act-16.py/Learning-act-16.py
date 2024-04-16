@@ -1,7 +1,16 @@
+# This code is to show various fundamental concepts in Python, and has been created from modules that I have completed in 
+# my Study with Whitecliffe.
+
+
+
+
 # ************** Defining and setting type
 # first_name = "Robert"
 # last_name = "Paulson"
 # print(first_name, last_name)
+
+
+
 
 # ********************************* Numeric types ********************************************
 
@@ -10,6 +19,9 @@
 # area = pi * radius **2
 #
 # print(area)
+
+# This code calculates the area of a circle given its radius.It performs arithmetic operations with integers and floats
+# and works with complex numbers using pi times radius squared
 
 # x = 4
 # y = 7
@@ -23,6 +35,8 @@
 # imaginary_part_y = y.imag
 # print("imaginary_part of x:", imaginary_part_x)
 # print("imaginary_part of y:", imaginary_part_y)
+
+
 
 # *************************** String types **************************************************
 
@@ -62,7 +76,12 @@
 #
 # input("\n\nPress the enter key to exit.")
 
+# string manipulation functions like replace(), upper(), swapcase() and others
+# I can replace parts of a string method to change the text to upper case, lower case or replace it entirely
+
+
 # **************************** Boolean Types *************************************************
+#  Boolean Values are only true or false
 
 # Baby.py
 #
@@ -94,6 +113,10 @@
 # print ("Test 8 ", bool(3))
 # print ("Test 9 ", bool(None))
 
+# here I randomly assign a boolean value and print a message based on the boolean value.
+# this shows how to use boolean values in conditionals.
+
+
 # ******************************************* Casting *********************************************
 
 # Casting.py
@@ -113,3 +136,5 @@ my_score = str(my_score)
 
 print("The type of my_score is now ", type(my_score),"\n")
 print("my_score is ", my_score,"\n")
+
+# defines a variable as an integer(my_score = 201) then casts it to a string and prints the changes in type (type(my_score))
